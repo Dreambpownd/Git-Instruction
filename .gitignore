@@ -1,0 +1,8 @@
+# Editor directories and files  
+**/idea
+.vscode
+*.jpg
+*.ntvs*
+*.sw?
+!*.btq
+pictures/**/*.txt
